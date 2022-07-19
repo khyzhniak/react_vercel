@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          test vercel app v 2
+          test vercel app v 2 simple
         </a>
       </header>
     </div>
